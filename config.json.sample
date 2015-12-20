@@ -1,0 +1,11 @@
+{
+    "audiobook_dir": "audiobook-audio-file-dir",
+    "author": "author-name",
+    "description": "description",
+    "feed_image_url": "feed-image-url",
+    "feed_title": "feed title",
+    "link": "feed URI",
+    "output_feed": "output-feed-filename",
+    "publication_date": "publication-date",
+    "url_base": "feed-url-base"
+}

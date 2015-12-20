@@ -1,0 +1,30 @@
+{
+    "format": {
+        "filename": "/Users/paul/Dropbox/Public/audiobooks/2015 - Seveneves.m4b",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0:00:00.000000",
+        "duration": "31:55:10.549333",
+        "size": "469995218",
+        "bit_rate": "32720",
+        "probe_score": 100,
+        "tags": {
+            "major_brand": "M4A",
+            "minor_version": "0",
+            "compatible_brands": "3gp5isom",
+            "creation_time": "2015-05-19 14:44:42",
+            "genre": "Audiobook",
+            "media_type": "2",
+            "encoder": "Chapter and Verse V 1.5",
+            "title": "2015 - Seveneves",
+            "artist": "Neal Stephenson",
+            "album": "2015 - Seveneves",
+            "date": "2015",
+            "track": "1/1",
+            "Encoding Params": "vers",
+            "album_artist": "Neal Stephenson"
+        }
+    }
+}

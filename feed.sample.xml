@@ -1,0 +1,28 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Audiobooks</title>
+    <link>plhw.org/</link>
+    <description>Audiobooks</description>
+    <itunes:author>Paul Howe</itunes:author>
+    <copyright></copyright>
+
+    <language>en-us</language>
+    <pubDate></pubDate>
+    <lastBuildDate></lastBuildDate>
+    <!-- <itunes:image href="http://graphics.nytimes.com/images/apps/podcasts/healthupdate.jpg"/> -->
+
+    <item>
+      <itunes:author>Jane Brody of The New York Times</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>1:03</itunes:duration>
+      <title>NYT: Health Update for 03/11/2008</title>
+
+      <guid isPermaLink="true">http://podcasts.nytimes.com/podcasts/2008/03/10/12healthupdate.mp3</guid>
+      <description>Can changing your diet improve your chances of getting pregnant?</description>
+      <category>News</category>
+      <pubDate>Mon, 10 Mar 2008 09:51:00 EDT</pubDate>
+      <enclosure length="1012195" url="http://podcasts.nytimes.com/podcasts/2008/03/10/12healthupdate.mp3" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>

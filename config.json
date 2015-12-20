@@ -1,0 +1,11 @@
+{
+    "audiobook_dir": "/Users/paul/Dropbox/public/audiobooks",
+    "author": "Paul Howe",
+    "description": "",
+    "feed_image_url": "http://extremelifechanger.com/web_images/peace_5.jpg",
+    "feed_title": "plhw.org: audiobooks",
+    "link": "plhw.org",
+    "output_feed": "audiobooks.rss",
+    "publication_date": "2015-12-19",
+    "url_base": "https://dl.dropboxusercontent.com/u/481380/audiobooks/"
+}
