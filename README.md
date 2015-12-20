@@ -1,7 +1,8 @@
 # audiobook-feed-crystal
 
-Given an input configuration, processes a set of audio files and generates an
-rss feed
+A little [Crystal](crystal-lang.org) app for generating podcast feeds. Given
+an input configuration, processes a set of audio files and generates an rss
+feed
 
 ## Usage
 
