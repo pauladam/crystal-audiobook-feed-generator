@@ -10,6 +10,3 @@ rss feed
     $ ./audiobook-rss 
     https://dl.dropboxusercontent.com/u/481234/audiobooks/audiobooks.rss
 
-## Contributors
-
-- [[pauladam]](https://github.com/pauladam) Paul Howe - creator, maintainer
