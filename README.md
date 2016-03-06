@@ -6,8 +6,8 @@ feed
 
 ## Usage
 
-    ex. 
+    ex.
     $ # describe a configuration in config.json
-    $ ./audiobook-rss 
+    $ ./audiobook-rss
     https://dl.dropboxusercontent.com/u/481234/audiobooks/audiobooks.rss
 
